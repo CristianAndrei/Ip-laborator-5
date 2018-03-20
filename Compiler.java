@@ -6,7 +6,8 @@ public class Compiler {
 
     public Vector  myController;
 
-  public void compile( text) {
+  public String compile( text) {
+  return null;
   }
 
 }

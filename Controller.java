@@ -11,6 +11,7 @@ public class Controller {
     public Vector  myPlug-in;
     public Vector  myCompiler;
     public Vector  has a reference to;
+    public Vector  parse;
 
   public void findFile( name) {
   }
