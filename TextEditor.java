@@ -9,4 +9,16 @@ public class TextEditor {
   public void colorText( keyWords) {
   }
 
+  public void syntaxHighlighting() {
+  }
+
+  public void autoComplete() {
+  }
+
+  public void braceMatching() {
+  }
+
+  public void wrongSyntax() {
+  }
+
 }

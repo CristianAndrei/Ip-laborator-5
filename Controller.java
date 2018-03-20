@@ -8,10 +8,11 @@ public class Controller {
 
   public String path;
 
+  public Integer newAttr;
+
     public Vector  myPlug-in;
     public Vector  myCompiler;
     public Vector  has a reference to;
-    public Vector  parse;
 
   public void findFile( name) {
   }
